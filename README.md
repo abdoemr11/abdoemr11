@@ -2,7 +2,7 @@
 I'm Abdelrahman, a junior software enthusiast based in Egypt. I have a passion for building and breaking things, and I'm open-minded about the stack or technology I work with. For me, the best tools are the ones that get the job done efficiently.
 
 #### 🔧 Technologies & Tools
-- Currently exploring: UI/UX and other Web Framework that JS throw on us
+- Currently exploring: UI/UX and other Web Frameworks that JS throw on us
 - Proficient in: React - Nextjs - Nodejs - QT 
 - Always excited to learn new things!
 
